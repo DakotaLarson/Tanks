@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/DakotaLarson/BattleTanks-Client#readme",
   "dependencies": {
-    "three": "^0.108.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@types/facebook-js-sdk": "^3.3.0",
